@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// $body-bg: #060930;
+// $body-color: #060930;
+// $white: #060930;
+// $black: #333456;
+
+@import "bootstrap";
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//Fontawesome
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import "../../node_modules/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css";
+@import "../../node_modules/summernote/dist/summernote-bs4";
+@import "../../node_modules/select2/dist/css/select2.min";
+@import "../../node_modules/@ttskch/select2-bootstrap4-theme/dist/select2-bootstrap4.min.css";
